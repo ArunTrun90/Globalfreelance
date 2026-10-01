@@ -1,0 +1,6 @@
+{
+  "name": "GlobalFreelance - Cross-Border Freelance Intelligence & Talent Directory",
+  "description": "Comprehensive global directory and guide to freelancing businesses, country-by-country legal & tax frameworks, rates, popular services, payment rails, and international hiring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
